@@ -1,6 +1,7 @@
 window.onload = function()
 {
-	alert(hola mundo);
+	alert("hola mundo");
+	inicio();
 }
 
 function inicio()
